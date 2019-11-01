@@ -1,0 +1,17 @@
+#dados{ 
+    margin: 0px 10px 5px 10px;
+    padding: 20px;
+    /* min-height: 445px; */
+    overflow-y: auto;
+    background-color: #fff;
+    text-align: left; 
+    border-radius: 0.25rem;
+    box-shadow: 0 0 2rem 0 rgba(53, 64, 82, 0.1);
+}
+
+#dadosI{
+    position: relative;
+    /* height: 330px;
+    overflow-y: auto;
+    overflow-x: hidden; */
+}

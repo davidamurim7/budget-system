@@ -1,0 +1,30 @@
+#conteudoPrincipal{
+    background-color: #f6f9fc;
+    width: 100%;
+    min-height: 580px; 
+  }
+  
+  #cabecalho{
+    background-image: linear-gradient(#eee, #222);
+    width: 100%;
+    height: 250px; 
+    padding: 50px 120px;
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+  
+  #rodapePrincipal{
+    background-color: #212121;
+    color: #fff;
+    text-align: left;
+    padding: 30px 20px;
+    width: 100%;
+    min-height: 200px; 
+    box-shadow: 0 0 2rem 0 rgba(44, 53, 66, 0.1);
+  }
+  
+  #btnPrincipal{
+    float: right;
+  }
+  
+  

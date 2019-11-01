@@ -1,0 +1,123 @@
+#menuLateral{
+    /* margin-right: 10px; */
+    background-color: #000;
+    width: 250px;
+    height: 100%;
+    float: left;
+    display: block;
+}
+
+#itemLateral{
+    background-color: #000;
+    border: 0px;
+    cursor: pointer;
+}
+  
+#itemLateralC{
+    text-align: left;
+    background-color: #000;
+    color: #babec3;
+    border: 0px;
+    cursor: pointer;
+}
+
+#itemLateralC :hover{
+    background-color: #1c1c1c;
+    color: #dfe2e7;
+    border-color: rgb(72, 132, 136);
+    border-width: 0px 5px 0px 0px;
+    border-radius: 0px;
+}
+
+#setaIcon{
+    float: right;
+}
+
+#tituloItem{
+    font-family: "Nunito Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    font-size: 11pt;
+    vertical-align: middle !important;
+    color: #ced4da;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+#conteudoItem{
+    font-family: "Nunito Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    font-size: 11pt;
+    vertical-align: middle !important;
+    color: #ced4da;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+#celulaItem{
+    padding: 12px 30px;
+}
+
+
+#conteudoItemC{
+    text-align: left;
+    background-color: rgb(19, 18, 18);
+    color: #babec3;
+    border-right: 5px solid #47BAC1;
+    border-radius: 0px;
+}
+
+#conteudoItemC :hover{
+    background-color: #1e1e1e;
+    color: #dfe2e7;
+}
+
+#titulo{
+    background-color: #000;
+    border: 0px;
+    font-size: 15pt;
+    text-align: left;
+    display: inline;
+    padding-left: 20px;
+    color: #47BAC1;
+}
+
+#titulo :hover{
+    cursor: pointer;
+}
+
+#conteudoTitulo{
+    color: #babec3;
+}
+
+#menuItem{
+    text-align: left;
+    font-size: 9pt;
+    padding: 20px;
+    color: #babec3;
+}
+
+#rodapeItem{
+    position: absolute;
+    bottom: 0px;
+
+    background-color: #000;
+    color: #dfe2e7;
+    border-top: 1px solid #1e1e1e;
+    border-radius: 0px;
+    width: 250px;
+    display: inline;
+}
+
+#rodapeItemCB{
+    cursor: pointer;
+    color: #babec3;
+    background-color: transparent;
+    border: 0px;
+    border-radius: 0px;
+    width: 25%;
+}
+
+#rodapeItemCB:hover{
+    background-color: #1c1c1c;
+    border: 0px;
+    cursor: pointer;
+    color: #fff;
+}
